@@ -120,6 +120,38 @@
     font-size: 15px;
     font-weight: 700;
 }
+.new-container{
+    display: flex;
+    justify-content: center;
+    max-width: 1120px;
+    margin: 0px auto;
+}
+.arrival-title{
+    color: #272727;
+    font-family: sans-serif;
+    font-size: 27px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0px 40px;
+}
+.new-img{
+    width: 300px;
+}
+.new-arrival{
+    text-align: center;
+    /* border: 2px solid rgb(233, 230, 230); */
+    /* margin-right: 5px; */
+}
+.new-arrival:hover{
+    border: 2px solid rgb(233, 230, 230);
+}
+.arrival-text{
+    font-weight: bold;
+    font-size: 23px;
+    color: #6d6969;
+    margin: 20px 0px;
+}
+
 
 .first-sec-container {
     background-color: #E554730D;
