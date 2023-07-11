@@ -115,14 +115,14 @@
 }
 
 .inst-img {
-    width: 270px;
+    width: 24%;
     height: auto;
     margin-right: 14px;
 }
 
 /* subscribe section start */
 .subscribe-container {
-    width: 1120px;
+    max-width: 1120px;
     height: 450px;
     background-image: url('../assets/Rectangle\ 9.png');
     background-size: contain;
