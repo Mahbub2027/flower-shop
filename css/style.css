@@ -147,12 +147,46 @@
     font-family: Lato;
     font-size: 15px;
     margin: 18px 0px 50px;
-    
+
 }
-.sub-input{
-    width: 450px;   
+
+.sub-input {
+    width: 450px;
     padding: 13px 25px;
     border: none;
     border-radius: 4px;
     margin-right: 10px;
+}
+
+/* Footer section start */
+.footer-container {
+    background-color: #111010;
+    color: #ffffff;
+    text-align: center;
+    padding: 80px 0px;
+}
+
+.footer-title {
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 770;
+}
+.footer-flower {
+    color: #E55473;
+}
+
+.footer-description {
+    color: #ffffffc7;
+    font-family: sans-serif;
+    font-size: 11px;
+    margin: 20px 0px;
+    line-height: 20px;
+
+}
+
+.footer-copy {
+    color: rgba(255, 255, 255, 0.40);
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
 }
